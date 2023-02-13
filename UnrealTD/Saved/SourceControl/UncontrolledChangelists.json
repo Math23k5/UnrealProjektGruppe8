@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Content/Levels/AI_Level.umap",
+				"C:/Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Content/TopDown/AI/Enemy_Charather.uasset",
+				"C:/Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Content/TopDown/AI/BB_Enemy.uasset",
+				"C:/Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Content/TopDown/AI/BT_Enemy.uasset",
 				"C:/Users/mathi/OneDrive/Documents/Unreal Projects/UnrealTD/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/mathi/OneDrive/Documents/Unreal Projects/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/29/GVW5QYC8V4HTHCF8TXZ2ZR.uasset"
 			]
