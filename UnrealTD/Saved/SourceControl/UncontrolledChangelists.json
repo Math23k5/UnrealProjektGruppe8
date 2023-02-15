@@ -6,6 +6,26 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/mathi/OneDrive/Documents/Unreal Projects/UnrealTD/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/Dialogue.umap",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/RG/XOAZMB5QVL20UGXOCZ1LZK.uasset",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/MB/YZQNQS1T7PO3ELEROFU66F.uasset",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/4P/65MU1R6WGCSRD3SQR7TFXP.uasset",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/WM/EHOX3YPZ8BWS13D7E6IFN2.uasset",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/72/PR1QS01SW5BWFPFZ9C79RF.uasset",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/43/KCOU8O5LTCF16FPA9RNLK8.uasset",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/MB/J5WHCOZ4GU1YICRISB3DL6.uasset",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/Dialogue/BP_NPC.uasset",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/Dialogue/BPI_Dialogue.uasset",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/TopDown/Maps/MissionTrigger_Blueprint.uasset",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/Dialogue/WB_Dialogue.uasset",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/RV/64RW5YU18VCJZG5QUIIE9K.uasset",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/86/R91O9LRSONEOT6EF5AAB34.uasset",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY.uasset",
+				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/3M/8XFX4SBR4RPBTOET8BHDF4.uasset",
 				"C:/Users/mathi/OneDrive/Documents/Unreal Projects/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/29/GVW5QYC8V4HTHCF8TXZ2ZR.uasset"
 			]
 		}
