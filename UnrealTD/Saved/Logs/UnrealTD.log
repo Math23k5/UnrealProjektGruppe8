@@ -1097,3 +1097,14 @@ Recommended: 516.25
 [2023.02.16-19.34.00:241][ 40]LogHttp: Warning: 0000064F7A048C00: libcurl info message cache 6 (necessary data rewind wasn't possible)
 [2023.02.16-19.34.00:241][ 40]LogHttp: Warning: 0000064F7A048C00: libcurl info message cache 7 (Closing connection 1)
 [2023.02.16-19.34.00:241][ 40]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDFC69BF8-4CA7-7C22-A54F-EB87A6B53445%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=74a758f94c487ee5d6ffaabc770d96d2%7Cc86b2ac7dd6a40cdb2fef407bceeb0dd%7Cd994f994-67be-4188-a615-c685d1c21de2&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.02.16-19.35.12:911][257]LogDerivedDataCache: C:/Users/Missen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.160 and deleted 0 files with total size 0 MiB. Scanned 4495 files in 4436 folders with total size 143 MiB.
+[2023.02.16-19.36.21:796][465]LogShaderCompilers: Display: ================================================
+[2023.02.16-19.36.21:796][465]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.16-19.36.21:796][465]LogShaderCompilers: Display: Total job queries 109, among them cache hits 4 (3.67%)
+[2023.02.16-19.36.21:796][465]LogShaderCompilers: Display: Tracking 105 distinct input hashes that result in 87 distinct outputs (82.86%)
+[2023.02.16-19.36.21:796][465]LogShaderCompilers: Display: RAM used: 0.91 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.11%
+[2023.02.16-19.36.21:796][465]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.16-19.36.21:796][465]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.02.16-19.36.21:796][465]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.02.16-19.36.21:796][465]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.02.16-19.36.21:796][465]LogShaderCompilers: Display: ================================================
