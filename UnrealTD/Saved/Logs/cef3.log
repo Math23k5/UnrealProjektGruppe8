@@ -1,9 +1,19 @@
-[0214/150236.171:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0214/150236.175:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0214/150237.708:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0214/150241.043:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0214/150241.043:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0216/095821.506:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0216/095821.517:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0216/095822.086:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0216/095822.094:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0220/094923.781:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0220/132643.135:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0220/132643.139:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0220/132648.133:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0220/132648.134:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0220/132648.140:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0220/132648.156:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0220/132649.322:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0220/132649.322:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0220/163033.624:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0220/163033.634:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0220/163035.501:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0220/163035.505:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0220/163036.006:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0220/163036.012:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0220/163036.040:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0220/163036.044:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0220/163038.627:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0220/163038.648:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
