@@ -7,6 +7,7 @@
 			"files": [
 				"C:/Users/mathi/OneDrive/Documents/Unreal Projects/UnrealTD/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/StarterContent/Architecture/Floor_400x400.uasset",
+<<<<<<< Updated upstream
 				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/Dialogue.umap",
 				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/RG/XOAZMB5QVL20UGXOCZ1LZK.uasset",
 				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/MB/YZQNQS1T7PO3ELEROFU66F.uasset",
@@ -57,6 +58,8 @@
 				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/Models/MoreShooter/strafe_right.uasset",
 				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/Models/MoreShooter/strafe.uasset",
 				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/RV/64RW5YU18VCJZG5QUIIE9K.uasset",
+=======
+>>>>>>> Stashed changes
 				"C:/Users/mathi/OneDrive/Documents/Unreal Projects/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/29/GVW5QYC8V4HTHCF8TXZ2ZR.uasset"
 			]
 		}
