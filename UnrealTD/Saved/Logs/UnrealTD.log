@@ -1355,3 +1355,36 @@ Recommended: 516.25
 [2023.02.20-15.30.38:322][931]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
 [2023.02.20-15.30.40:499][937]LogUdpMessaging: Display: Added local interface '192.168.56.1' to multicast group '230.0.0.1:6666'
 [2023.02.20-15.52.06:253][794]LogDerivedDataCache: C:/Users/Missen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.667 and deleted 0 files with total size 0 MiB. Scanned 5045 files in 4985 folders with total size 633 MiB.
+[2023.02.20-16.52.05:839][590]LogDerivedDataCache: C:/Users/Missen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.253 and deleted 0 files with total size 0 MiB. Scanned 5045 files in 4985 folders with total size 633 MiB.
+[2023.02.20-17.08.23:899][518]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2023.02.20-20.08.23:161][518]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22856
+[2023.02.20-20.08.23:487][519]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ad0e9505-470f-46ed-85b3-1b009062bc3c}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=316.82
+[2023.02.20-20.08.23:487][519]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.02.20-20.08.23:489][519]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.02.20-20.08.23:490][520]LogHttp: Warning: 00000B9BB463EB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB86C46D4-409E-425A-8173-17BDC567A00E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=74a758f94c487ee5d6ffaabc770d96d2%7Cc86b2ac7dd6a40cdb2fef407bceeb0dd%7Cd994f994-67be-4188-a615-c685d1c21de2&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.02.20-20.08.23:490][520]LogHttp: Warning: 00000B9BB463EB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.02.20-20.08.23:490][520]LogHttp: Warning: 00000B9BB463EB00: libcurl info message cache 0 (Too old connection (10858 seconds idle), disconnect it)
+[2023.02.20-20.08.23:490][520]LogHttp: Warning: 00000B9BB463EB00: libcurl info message cache 1 (Connection 3 seems to be dead)
+[2023.02.20-20.08.23:490][520]LogHttp: Warning: 00000B9BB463EB00: libcurl info message cache 2 (Closing connection 3)
+[2023.02.20-20.08.23:490][520]LogHttp: Warning: 00000B9BB463EB00: libcurl info message cache 3 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2023.02.20-20.08.23:490][520]LogHttp: Warning: 00000B9BB463EB00: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.02.20-20.08.23:491][520]LogHttp: Warning: 00000B9BB463EB00: libcurl info message cache 5 (Closing connection 4)
+[2023.02.20-20.08.23:491][520]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB86C46D4-409E-425A-8173-17BDC567A00E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=74a758f94c487ee5d6ffaabc770d96d2%7Cc86b2ac7dd6a40cdb2fef407bceeb0dd%7Cd994f994-67be-4188-a615-c685d1c21de2&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.02.20-20.08.23:492][520]LogRendererCore: Warning: Query 'EndOfFrameUpdates' not ready.
+[2023.02.20-20.08.23:817][521]LogRendererCore: Warning: Query 'EndOfFrameUpdates' not ready.
+[2023.02.20-20.08.24:150][522]LogRendererCore: Warning: Query 'EndOfFrameUpdates' not ready.
+[2023.02.20-20.08.24:484][523]LogRendererCore: Warning: Query 'EndOfFrameUpdates' not ready.
+[2023.02.21-09.34.22:157][527]LogHttp: Warning: 00000B9BB463DC00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB86C46D4-409E-425A-8173-17BDC567A00E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=74a758f94c487ee5d6ffaabc770d96d2%7Cc86b2ac7dd6a40cdb2fef407bceeb0dd%7Cd994f994-67be-4188-a615-c685d1c21de2&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.02.21-09.34.22:157][527]LogHttp: Warning: 00000B9BB463DC00: request failed, libcurl error: 28 (Timeout was reached)
+[2023.02.21-09.34.22:157][527]LogHttp: Warning: 00000B9BB463DC00: libcurl info message cache 0 (  Trying 44.205.103.113:443...)
+[2023.02.21-09.34.22:157][527]LogHttp: Warning: 00000B9BB463DC00: libcurl info message cache 1 (After 29969ms connect time, move on!)
+[2023.02.21-09.34.22:157][527]LogHttp: Warning: 00000B9BB463DC00: libcurl info message cache 2 (connect to 44.205.103.113 port 443 failed: Timed out)
+[2023.02.21-09.34.22:157][527]LogHttp: Warning: 00000B9BB463DC00: libcurl info message cache 3 (  Trying 34.224.192.60:443...)
+[2023.02.21-09.34.22:157][527]LogHttp: Warning: 00000B9BB463DC00: libcurl info message cache 4 (Connection timeout after 48356222 ms)
+[2023.02.21-09.34.22:157][527]LogHttp: Warning: 00000B9BB463DC00: libcurl info message cache 5 (Closing connection 5)
+[2023.02.21-09.34.22:159][527]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB86C46D4-409E-425A-8173-17BDC567A00E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=74a758f94c487ee5d6ffaabc770d96d2%7Cc86b2ac7dd6a40cdb2fef407bceeb0dd%7Cd994f994-67be-4188-a615-c685d1c21de2&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.02.21-09.34.22:496][529]LogHttp: Warning: 00000B9BB463FA00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB86C46D4-409E-425A-8173-17BDC567A00E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=74a758f94c487ee5d6ffaabc770d96d2%7Cc86b2ac7dd6a40cdb2fef407bceeb0dd%7Cd994f994-67be-4188-a615-c685d1c21de2&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.02.21-09.34.22:496][529]LogHttp: Warning: 00000B9BB463FA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.02.21-09.34.22:496][529]LogHttp: Warning: 00000B9BB463FA00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.02.21-09.34.22:496][529]LogHttp: Warning: 00000B9BB463FA00: libcurl info message cache 1 (Closing connection 6)
+[2023.02.21-09.34.22:496][529]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB86C46D4-409E-425A-8173-17BDC567A00E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=74a758f94c487ee5d6ffaabc770d96d2%7Cc86b2ac7dd6a40cdb2fef407bceeb0dd%7Cd994f994-67be-4188-a615-c685d1c21de2&AppEnvironment=datacollector-binary&UploadType=eteventstream
