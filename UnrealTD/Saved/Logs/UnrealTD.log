@@ -1378,3 +1378,70 @@ Recommended: 516.25
 [2023.02.21-09.52.24:135][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
 [2023.02.21-09.52.24:174][387]LogPlayLevel: Display: Destroying online subsystem :Context_14
 [2023.02.21-09.56.01:105][387]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDown/AI/Enemy_Charather.
+[2023.02.21-09.57.02:294][856]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Raw_Marble_Stone_tk5hfjfn/MI_Raw_Marble_Stone_tk5hfjfn_4K.MI_Raw_Marble_Stone_tk5hfjfn_4K
+[2023.02.21-09.57.02:307][856]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: ================================================
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: Total job queries 197, among them cache hits 31 (15.74%)
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: Tracking 166 distinct input hashes that result in 125 distinct outputs (75.30%)
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: RAM used: 1.36 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.17%
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: Shaders Compiled: 16
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100.00%)
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: Average time worker was idle: 0.20 s
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: Job execution time: average 1.64 s, max 2.59 s
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: Job life time (pending + execution): average 1.70 s, max 2.67
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.68 s
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: Average processing rate: 4.35 jobs/sec
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: Total thread time: 13.36 s
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: Total thread preprocess time: 0.85 s
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: Percentage time preprocessing: 6.40%
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: Effective parallelization: 3.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 1.01 sec, max 1.06 sec, min 0.96 sec)
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.96 sec, max 0.97 sec, min 0.95 sec)
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.90 sec, max 1.08 sec, min 0.79 sec)
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.87 sec, max 1.01 sec, min 0.76 sec)
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.70 sec, max 0.71 sec, min 0.68 sec)
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.01% of total time (compiled    4 times, average 0.90 sec, max 1.08 sec, min 0.79 sec)
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 26.19% of total time (compiled    4 times, average 0.87 sec, max 1.01 sec, min 0.76 sec)
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 15.15% of total time (compiled    2 times, average 1.01 sec, max 1.06 sec, min 0.96 sec)
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 14.34% of total time (compiled    2 times, average 0.96 sec, max 0.97 sec, min 0.95 sec)
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.43% of total time (compiled    2 times, average 0.70 sec, max 0.71 sec, min 0.68 sec)
+[2023.02.21-09.57.02:545][856]LogShaderCompilers: Display: ================================================
+[2023.02.21-09.57.02:552][856]LogViewport: Scene viewport resized to 1778x1333, mode Windowed.
+[2023.02.21-09.57.45:011][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.21-09.57.45:120][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.02.21-09.57.45:270][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.02.21-09.57.45:278][329]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Raw_Marble_Stone_tk5hfjfn/MI_Raw_Marble_Stone_tk5hfjfn_4K
+[2023.02.21-09.57.45:280][329]LogSavePackage: Moving '../../../../../../Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Saved/MI_Raw_Marble_Stone_tk5hfjfn_4KDE1F0DEB4669FEC518503B87190280C8.tmp' to '../../../../../../Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Content/Megascans/Surfaces/Raw_Marble_Stone_tk5hfjfn/MI_Raw_Marble_Stone_tk5hfjfn_4K.uasset'
+[2023.02.21-09.57.45:285][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 273 ms (total: 492 ms)
+[2023.02.21-09.57.45:292][329]AssetCheck: New page: Asset Save: MI_Raw_Marble_Stone_tk5hfjfn_4K
+[2023.02.21-09.57.45:292][329]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/Surfaces/Raw_Marble_Stone_tk5hfjfn/MI_Raw_Marble_Stone_tk5hfjfn_4K.MI_Raw_Marble_Stone_tk5hfjfn_4K
+[2023.02.21-09.57.47:091][434]LogSlate: Window 'MI_Raw_Marble_Stone_tk5hfjfn_4K' being destroyed
+[2023.02.21-09.57.47:095][434]LogSlate: Window 'MI_Raw_Marble_Stone_tk5hfjfn_4K' being destroyed
+[2023.02.21-09.57.47:104][434]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-09.57.47:104][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-09.57.56:342][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.02.21-09.57.56:350][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.21-09.57.56:391][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.02.21-09.57.56:412][985]LogSavePackage: Moving output files for package: /Game/Levels/AI_Level
+[2023.02.21-09.57.56:414][985]LogSavePackage: Moving '../../../../../../Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Saved/AI_LevelED7B1FF640DD8DEA5B568E9AD94D98DB.tmp' to '../../../../../../Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Content/Levels/AI_Level.umap'
+[2023.02.21-09.57.56:422][985]LogFileHelpers: No new changes to save!
+[2023.02.21-09.57.56:422][985]LogFileHelpers: Saving map 'AI_Level' took 0.052
+[2023.02.21-09.57.56:427][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 568 ms)
+[2023.02.21-09.57.56:435][985]AssetCheck: New page: Asset Save: AI_Level
+[2023.02.21-09.57.56:435][985]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/AI_Level.AI_Level
+[2023.02.21-10.03.53:413][552]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2023.02.21-10.03.53:414][552]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.21-10.05.31:451][724]BlueprintLog: New page: Compile BP_TopDownCharacter
+[2023.02.21-10.05.31:517][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.02.21-10.05.39:520][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.21-10.05.39:588][201]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2023.02.21-10.05.39:590][201]LogSavePackage: Moving '../../../../../../Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Saved/BP_TopDownCharacter4F8332AD4C2E09245D8B37AA568B1146.tmp' to '../../../../../../Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2023.02.21-10.05.39:597][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 646 ms)
+[2023.02.21-10.05.39:605][201]AssetCheck: New page: Asset Save: BP_TopDownCharacter
+[2023.02.21-10.05.39:605][201]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
