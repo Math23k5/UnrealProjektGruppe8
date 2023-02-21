@@ -1,0 +1,6 @@
+2023/02/20-09:48:41.240 8b30 Creating DB C:/Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/02/20-09:48:41.245 8b30 Reusing MANIFEST C:/Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/20-10:08:28.968 6e64 Level-0 table #5: started
+2023/02/20-10:08:28.970 6e64 Level-0 table #5: 9208 bytes OK
+2023/02/20-10:08:28.972 6e64 Delete type=0 #3
+2023/02/20-10:08:28.972 6e64 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
