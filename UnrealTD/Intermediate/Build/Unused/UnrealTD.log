@@ -11,19 +11,18 @@
   [Upgrade]
   Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
     Executing up to 8 processes, one per physical core
-  Building 11 actions with 8 processes...
-  [1/11] Resource Default.rc2
-  [2/11] Compile SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.cpp
-  [3/11] Compile UnrealTD.init.gen.cpp
-  [4/11] Compile UnrealTD.cpp
-  [5/11] Compile MyActorComponent.gen.cpp
-  [6/11] Compile HealthComponent.gen.cpp
-  [7/11] Compile MyActorComponent.cpp
-  [8/11] Compile HealthComponent.cpp
-  [9/11] Link UnrealEditor-UnrealTD.lib
+  Building 10 actions with 8 processes...
+  [1/10] Compile SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.cpp
+  [2/10] Compile UnrealTD.init.gen.cpp
+  [3/10] Compile UnrealTD.cpp
+  [4/10] Compile HealthComponent.gen.cpp
+  [5/10] Compile HealthComponent.cpp
+  [6/10] Compile MyActorComponent.gen.cpp
+  [7/10] Compile MyActorComponent.cpp
+  [8/10] Link UnrealEditor-UnrealTD.lib
      Creating library C:\Users\Missen\OneDrive\Dokumenter\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\UnrealEditor-UnrealTD.lib and object C:\Users\Missen\OneDrive\Dokumenter\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\UnrealEditor-UnrealTD.exp
-  [10/11] Link UnrealEditor-UnrealTD.dll
+  [9/10] Link UnrealEditor-UnrealTD.dll
      Creating library C:\Users\Missen\OneDrive\Dokumenter\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\UnrealEditor-UnrealTD.suppressed.lib and object C:\Users\Missen\OneDrive\Dokumenter\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\UnrealEditor-UnrealTD.suppressed.exp
-  [11/11] WriteMetadata UnrealTDEditor.target
-  Total time in Parallel executor: 48.25 seconds
-  Total execution time: 49.05 seconds
+  [10/10] WriteMetadata UnrealTDEditor.target
+  Total time in Parallel executor: 46.86 seconds
+  Total execution time: 47.49 seconds
