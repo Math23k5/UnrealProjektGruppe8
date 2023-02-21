@@ -1,6 +1,6 @@
-C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealTD\UHT\HealthComponent.gen.cpp
+C:\Users\Missen\OneDrive\Dokumenter\GitHub\UnrealTowerDefense\UnrealTD\Source\UnrealTD\Private\HealthComponent.cpp
 /I .
-/I C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Source\UnrealTD\Private
+/I C:\Users\Missen\OneDrive\Dokumenter\GitHub\UnrealTowerDefense\UnrealTD\Source\UnrealTD\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I Runtime
 /I ..\Shaders\Shared
@@ -270,23 +270,24 @@ C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Intermediat
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealTD\UHT
-/I C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Source
-/I C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Source\UnrealTD\Public
-/I ThirdParty\mimalloc\include
-/I ThirdParty\LibTiff\Source\Win64
-/I ThirdParty\LibTiff\Source
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealTDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/FI"C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\Definitions.UnrealTD.h"
-/Yu"C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealTDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/Fp"C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealTDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\HealthComponent.gen.cpp.obj"
-/sourceDependencies C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\HealthComponent.gen.cpp.dep.json
+/I C:\Users\Missen\OneDrive\Dokumenter\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealTD\UHT
+/I C:\Users\Missen\OneDrive\Dokumenter\GitHub\UnrealTowerDefense\UnrealTD\Source
+/I C:\Users\Missen\OneDrive\Dokumenter\GitHub\UnrealTowerDefense\UnrealTD\Source\UnrealTD\Public
+/external:W0
+/external:I ThirdParty\mimalloc\include
+/external:I ThirdParty\LibTiff\Source\Win64
+/external:I ThirdParty\LibTiff\Source
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
+/FI"C:\Users\Missen\OneDrive\Dokumenter\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealTDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/FI"C:\Users\Missen\OneDrive\Dokumenter\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\Definitions.UnrealTD.h"
+/Yu"C:\Users\Missen\OneDrive\Dokumenter\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealTDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"C:\Users\Missen\OneDrive\Dokumenter\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealTDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
+/Fo"C:\Users\Missen\OneDrive\Dokumenter\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\HealthComponent.cpp.obj"
+/sourceDependencies C:\Users\Missen\OneDrive\Dokumenter\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\HealthComponent.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
