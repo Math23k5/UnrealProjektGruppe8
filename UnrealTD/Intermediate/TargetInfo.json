@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealTD",
+			"Path": "C:\\Users\\Missen\\OneDrive\\Dokumenter\\GitHub\\UnrealTowerDefense\\UnrealTD\\Source\\UnrealTD.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealTDEditor",
+			"Path": "C:\\Users\\Missen\\OneDrive\\Dokumenter\\GitHub\\UnrealTowerDefense\\UnrealTD\\Source\\UnrealTDEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
