@@ -1,6 +1,6 @@
-C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealTD\UHT\UnrealTD.init.gen.cpp
+C:\Users\mathi\Desktop\UnrealGitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealTD\UHT\UnrealTD.init.gen.cpp
 /I .
-/I C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Source\UnrealTD\Private
+/I C:\Users\mathi\Desktop\UnrealGitHub\UnrealTowerDefense\UnrealTD\Source\UnrealTD\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I Runtime
 /I ..\Shaders\Shared
@@ -270,9 +270,9 @@ C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Intermediat
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealTD\UHT
-/I C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Source
-/I C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Source\UnrealTD\Public
+/I C:\Users\mathi\Desktop\UnrealGitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealTD\UHT
+/I C:\Users\mathi\Desktop\UnrealGitHub\UnrealTowerDefense\UnrealTD\Source
+/I C:\Users\mathi\Desktop\UnrealGitHub\UnrealTowerDefense\UnrealTD\Source\UnrealTD\Public
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
@@ -281,12 +281,12 @@ C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Intermediat
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealTDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/FI"C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\Definitions.UnrealTD.h"
-/Yu"C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealTDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/Fp"C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealTDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\UnrealTD.init.gen.cpp.obj"
-/sourceDependencies C:\Users\mathi\OneDrive\Documents\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\UnrealTD.init.gen.cpp.dep.json
+/FI"C:\Users\mathi\Desktop\UnrealGitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealTDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/FI"C:\Users\mathi\Desktop\UnrealGitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\Definitions.UnrealTD.h"
+/Yu"C:\Users\mathi\Desktop\UnrealGitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealTDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"C:\Users\mathi\Desktop\UnrealGitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealTDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
+/Fo"C:\Users\mathi\Desktop\UnrealGitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\UnrealTD.init.gen.cpp.obj"
+/sourceDependencies C:\Users\mathi\Desktop\UnrealGitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\UnrealTD.init.gen.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
