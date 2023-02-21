@@ -1259,3 +1259,122 @@ Recommended: 516.25
 [2023.02.21-09.47.58:730][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms
 [2023.02.21-09.47.58:737][ 78]AssetCheck: New page: Asset Save: AI_Level
 [2023.02.21-09.47.58:738][ 78]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/AI_Level.AI_Level
+[2023.02.21-09.48.41:330][289]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Dialogue/BPI_Dialogue.
+[2023.02.21-09.48.41:330][289]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Dialogue/BP_NPC.
+[2023.02.21-09.48.41:330][289]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Dialogue/WB_Dialogue.
+[2023.02.21-09.48.42:673][293]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Models/SoldierAnimBP.
+[2023.02.21-09.48.43:330][295]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDown/Maps/ABP_Manny_Blueprint.
+[2023.02.21-09.48.43:332][295]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDown/Maps/MissionTrigger_Blueprint.
+[2023.02.21-09.49.00:627][727]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/AI/Enemy_Charather.Enemy_Charather
+[2023.02.21-09.49.00:628][727]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.21-09.49.01:243][729]LogShaderCompilers: Display: ================================================
+[2023.02.21-09.49.01:243][729]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.21-09.49.01:243][729]LogShaderCompilers: Display: Total job queries 169, among them cache hits 27 (15.98%)
+[2023.02.21-09.49.01:243][729]LogShaderCompilers: Display: Tracking 142 distinct input hashes that result in 109 distinct outputs (76.76%)
+[2023.02.21-09.49.01:243][729]LogShaderCompilers: Display: RAM used: 1.19 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2023.02.21-09.49.01:243][729]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.21-09.49.01:243][729]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.02.21-09.49.01:243][729]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.02.21-09.49.01:244][729]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.02.21-09.49.01:244][729]LogShaderCompilers: Display: ================================================
+[2023.02.21-09.49.04:995][952]LogSlate: Window 'Enemy_Charather' being destroyed
+[2023.02.21-09.49.05:000][952]LogSlate: Window 'Enemy_Charather' being destroyed
+[2023.02.21-09.49.05:005][952]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-09.49.05:005][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-09.49.11:630][343]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2023.02.21-09.49.11:630][343]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.21-09.49.25:809][151]LogSlate: Window 'BP_TopDownCharacter' being destroyed
+[2023.02.21-09.49.25:813][151]LogSlate: Window 'BP_TopDownCharacter' being destroyed
+[2023.02.21-09.49.25:818][151]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-09.49.25:818][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-09.49.30:902][452]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode
+[2023.02.21-09.49.30:903][452]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.21-09.49.43:883][200]LogSlate: Window 'BP_TopDownGameMode' being destroyed
+[2023.02.21-09.49.43:888][200]LogSlate: Window 'BP_TopDownGameMode' being destroyed
+[2023.02.21-09.49.43:892][200]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-09.49.43:892][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-09.51.19:359][833]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/AI/Enemy_Charather.Enemy_Charather
+[2023.02.21-09.51.19:360][833]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.21-09.51.21:737][939]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.21-09.51.23:981][ 66]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Ch15_nonPBR) ...
+[2023.02.21-09.51.24:013][ 66]LogTexture: Display: Building textures: /Game/Models/Basic_Shooter_Pack/Ch15_1001_Glossiness.Ch15_1001_Glossiness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.02.21-09.51.24:284][ 66]LogTexture: Display: Building textures: /Game/Models/Basic_Shooter_Pack/Ch15_1001_Diffuse.Ch15_1001_Diffuse (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.02.21-09.51.24:326][ 66]LogTexture: Display: Building textures: /Game/Models/Basic_Shooter_Pack/Ch15_1001_Normal.Ch15_1001_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.02.21-09.51.24:946][ 66]LogSkeletalMesh: Building Skeletal Mesh Ch15_nonPBR...
+[2023.02.21-09.51.25:876][ 66]LogSkeletalMesh: Built Skeletal Mesh [0.93s] /Game/Models/Basic_Shooter_Pack/Ch15_nonPBR.Ch15_nonPBR
+[2023.02.21-09.51.25:891][ 66]LogAnimation: Warning: AnimBP ABP_Manny_C is incompatible with skeleton Ch15_nonPBR_Skeleton, removing AnimBP from actor.
+[2023.02.21-09.51.25:893][ 66]LogAnimation: Warning: AnimBP ABP_Manny_C is incompatible with skeleton Ch15_nonPBR_Skeleton, removing AnimBP from actor.
+[2023.02.21-09.51.25:895][ 66]LogAnimation: Warning: AnimBP ABP_Manny_C is incompatible with skeleton Ch15_nonPBR_Skeleton, removing AnimBP from actor.
+[2023.02.21-09.51.25:897][ 66]LogAnimation: Warning: AnimBP ABP_Manny_C is incompatible with skeleton Ch15_nonPBR_Skeleton, removing AnimBP from actor.
+[2023.02.21-09.51.26:041][ 69]LogTexture: Display: Building textures: /Game/Models/Basic_Shooter_Pack/Ch15_1002_Emissive.Ch15_1002_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.02.21-09.51.26:112][ 70]LogTexture: Display: Building textures: /Game/Models/Basic_Shooter_Pack/Ch15_1001_Specular.Ch15_1001_Specular (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.02.21-09.51.26:379][ 74]LogTexture: Display: Building textures: /Game/Models/Basic_Shooter_Pack/Ch15_1002_Diffuse.Ch15_1002_Diffuse (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.02.21-09.51.26:788][ 84]LogTexture: Display: Building textures: /Game/Models/Basic_Shooter_Pack/Ch15_1002_Glossiness.Ch15_1002_Glossiness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.02.21-09.51.27:265][ 97]LogTexture: Display: Building textures: /Game/Models/Basic_Shooter_Pack/Ch15_1002_Normal.Ch15_1002_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.02.21-09.51.27:479][101]LogTexture: Display: Building textures: /Game/Models/Basic_Shooter_Pack/Ch15_1002_Specular.Ch15_1002_Specular (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.02.21-09.51.29:217][161]BlueprintLog: New page: Compile Enemy_Charather
+[2023.02.21-09.51.29:360][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.02.21-09.51.30:054][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.21-09.51.30:121][197]LogSavePackage: Moving output files for package: /Game/TopDown/AI/Enemy_Charather
+[2023.02.21-09.51.30:123][197]LogSavePackage: Moving '../../../../../../Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Saved/Enemy_Charather3DC06C8B4C96625D02B0F78E6DA02069.tmp' to '../../../../../../Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Content/TopDown/AI/Enemy_Charather.uasset'
+[2023.02.21-09.51.30:130][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 218 ms)
+[2023.02.21-09.51.30:137][197]AssetCheck: New page: Asset Save: Enemy_Charather
+[2023.02.21-09.51.30:137][197]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/AI/Enemy_Charather.Enemy_Charather
+[2023.02.21-09.51.32:522][340]LogSlate: Window 'Enemy_Charather' being destroyed
+[2023.02.21-09.51.32:526][340]LogSlate: Window 'Enemy_Charather' being destroyed
+[2023.02.21-09.51.32:530][340]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-09.51.32:530][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-09.51.44:156][ 30]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.21-09.51.44:163][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.21-09.51.44:163][ 30]PIE: New page: PIE session: AI_Level (21. feb. 2023 11.51.44)
+[2023.02.21-09.51.44:167][ 30]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.02.21-09.51.44:167][ 30]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.21-09.51.44:167][ 30]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Level
+[2023.02.21-09.51.44:176][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009380s)
+[2023.02.21-09.51.44:176][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Level.AI_Level to /Game/Levels/UEDPIE_0_AI_Level.AI_Level (0.009580s)
+[2023.02.21-09.51.44:177][ 30]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.21-09.51.44:177][ 30]LogAIModule: Creating AISystem for world AI_Level
+[2023.02.21-09.51.44:177][ 30]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2023.02.21-09.51.44:200][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.02.21-09.51.44:207][ 30]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.21-09.51.44:207][ 30]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.21-09.51.44:207][ 30]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.21-09.51.44:207][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.21-09.51.44:207][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.21-09.51.44:207][ 30]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.21-09.51.44:207][ 30]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.21-09.51.44:207][ 30]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.21-09.51.44:207][ 30]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.21-09.51.44:207][ 30]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.21-09.51.44:207][ 30]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.21-09.51.44:207][ 30]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.21-09.51.44:209][ 30]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.21-09.51.44:255][ 30]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.02.21-09.51.44:255][ 30]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.21-09.51.44:255][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.21-09.51.44:255][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.21-09.51.44:256][ 30]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.02.21-09.51.44:256][ 30]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.02.21-09.51.44:258][ 30]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.02.21-09.51.44:258][ 30]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.02.21-09.51.44:258][ 30]LogInit: FAudioDevice initialized.
+[2023.02.21-09.51.44:258][ 30]LogAudio: Display: Audio Device (ID: 2) registered with world 'AI_Level'.
+[2023.02.21-09.51.44:262][ 30]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.02.21-09.51.44:266][ 30]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Level.AI_Level up for play (max tick rate 60) at 2023.02.21-10.51.44
+[2023.02.21-09.51.44:270][ 30]LogWorld: Bringing up level for play took: 0.008238
+[2023.02.21-09.51.44:272][ 30]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.02.21-09.51.44:288][ 30]PIE: Server logged in
+[2023.02.21-09.51.44:289][ 30]PIE: Play in editor total start time 0,127 seconds.
+[2023.02.21-09.52.24:018][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-09.52.24:018][386]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_AI_Level
+[2023.02.21-09.52.24:019][386]LogWorld: UWorld::CleanupWorld for AI_Level, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-09.52.24:019][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-09.52.24:022][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.21-09.52.24:029][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-09.52.24:056][386]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.21-09.52.24:056][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.21-09.52.24:058][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.21-09.52.24:084][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-09.52.24:135][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.02.21-09.52.24:174][387]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.02.21-09.56.01:105][387]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDown/AI/Enemy_Charather.
