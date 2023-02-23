@@ -1,11 +1,19 @@
 {
     "Version": "1.1",
     "Data": {
+<<<<<<< Updated upstream
         "Source": "c:\\users\\mathi\\desktop\\unrealgithub\\unrealtowerdefense\\unrealtd\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealtd\\uht\\unrealtd.init.gen.cpp",
         "ProvidedModule": "",
         "PCH": "c:\\users\\mathi\\desktop\\unrealgithub\\unrealtowerdefense\\unrealtd\\intermediate\\build\\win64\\unrealtdeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
         "Includes": [
             "c:\\users\\mathi\\desktop\\unrealgithub\\unrealtowerdefense\\unrealtd\\intermediate\\build\\win64\\unrealeditor\\development\\unrealtd\\definitions.unrealtd.h"
+=======
+        "Source": "c:\\users\\mathi\\onedrive\\documents\\github\\unrealtowerdefense\\unrealtd\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealtd\\uht\\unrealtd.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mathi\\onedrive\\documents\\github\\unrealtowerdefense\\unrealtd\\intermediate\\build\\win64\\unrealtdeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\mathi\\onedrive\\documents\\github\\unrealtowerdefense\\unrealtd\\intermediate\\build\\win64\\unrealeditor\\development\\unrealtd\\definitions.unrealtd.h"
+>>>>>>> Stashed changes
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
