@@ -13,16 +13,16 @@
     Executing up to 8 processes, one per physical core
   Building 10 actions with 8 processes...
   [1/10] Compile SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.cpp
-  [2/10] Compile UnrealTD.init.gen.cpp
-  [3/10] Compile UnrealTD.cpp
+  [2/10] Compile UnrealTD.cpp
+  [3/10] Compile MyActorComponent.gen.cpp
   [4/10] Compile HealthComponent.gen.cpp
-  [5/10] Compile HealthComponent.cpp
-  [6/10] Compile MyActorComponent.gen.cpp
-  [7/10] Compile MyActorComponent.cpp
+  [5/10] Compile MyActorComponent.cpp
+  [6/10] Compile UnrealTD.init.gen.cpp
+  [7/10] Compile HealthComponent.cpp
   [8/10] Link UnrealEditor-UnrealTD.lib
      Creating library C:\Users\Missen\OneDrive\Dokumenter\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\UnrealEditor-UnrealTD.lib and object C:\Users\Missen\OneDrive\Dokumenter\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\UnrealEditor-UnrealTD.exp
   [9/10] Link UnrealEditor-UnrealTD.dll
      Creating library C:\Users\Missen\OneDrive\Dokumenter\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\UnrealEditor-UnrealTD.suppressed.lib and object C:\Users\Missen\OneDrive\Dokumenter\GitHub\UnrealTowerDefense\UnrealTD\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTD\UnrealEditor-UnrealTD.suppressed.exp
   [10/10] WriteMetadata UnrealTDEditor.target
-  Total time in Parallel executor: 46.86 seconds
-  Total execution time: 47.49 seconds
+  Total time in Parallel executor: 64.87 seconds
+  Total execution time: 65.92 seconds
