@@ -6,6 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/mathi/OneDrive/Documents/Unreal Projects/UnrealTD/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/mathi/OneDrive/Documents/Unreal Projects/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/29/GVW5QYC8V4HTHCF8TXZ2ZR.uasset",
+				"C:/Users/mathi/OneDrive/Documents/GitHub/UnrealTowerDefense/UnrealTD/Content/Models/MoreShooter/Idle.uasset",
+				"C:/Users/mathi/OneDrive/Documents/GitHub/UnrealTowerDefense/UnrealTD/Content/Models/MoreShooter/rifle_run.uasset",
+				"C:/Users/mathi/OneDrive/Documents/GitHub/UnrealTowerDefense/UnrealTD/Content/Models/SoldierAnimBP.uasset",
+				"C:/Users/mathi/OneDrive/Documents/GitHub/UnrealTowerDefense/UnrealTD/Content/Models/MoreShooter/strafe_left.uasset",
+				"C:/Users/mathi/OneDrive/Documents/GitHub/UnrealTowerDefense/UnrealTD/Content/Models/MoreShooter/strafe_right.uasset",
+				"C:/Users/mathi/OneDrive/Documents/GitHub/UnrealTowerDefense/UnrealTD/Content/Models/MoreShooter/walking.uasset",
+				"C:/Users/mathi/OneDrive/Documents/GitHub/UnrealTowerDefense/UnrealTD/Content/TopDown/AI/Enemy_Charather.uasset",
+				"C:/Users/mathi/OneDrive/Documents/GitHub/UnrealTowerDefense/UnrealTD/Content/Levels/AI_Level.umap",
 				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/Dialogue.umap",
 				"C:/Users/mathi/Desktop/UnrealGitHub/UnrealTowerDefense/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/RG/XOAZMB5QVL20UGXOCZ1LZK.uasset",
@@ -45,8 +54,7 @@
 				"C:/Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Content/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material.uasset",
 				"C:/Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Content/Megascans/Surfaces/Raw_Marble_Stone_tk5hfjfn/MI_Raw_Marble_Stone_tk5hfjfn_4K.uasset",
 				"C:/Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Content/TopDown/Widgets/WBP_HUD.uasset",
-				"C:/Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Content/TopDown/Blueprints/BP_SpawnPos.uasset",
-				"C:/Users/mathi/OneDrive/Documents/Unreal Projects/UnrealTD/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/29/GVW5QYC8V4HTHCF8TXZ2ZR.uasset"
+				"C:/Users/Missen/OneDrive/Dokumenter/GitHub/UnrealTowerDefense/UnrealTD/Content/TopDown/Blueprints/BP_SpawnPos.uasset"
 			]
 		}
 	]
