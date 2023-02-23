@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\mathi\\onedrive\\documents\\github\\unrealtowerdefense\\unrealtd\\source\\unrealtd\\private\\myactorcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mathi\\onedrive\\documents\\github\\unrealtowerdefense\\unrealtd\\intermediate\\build\\win64\\unrealtd\\shipping\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\mathi\\onedrive\\documents\\github\\unrealtowerdefense\\unrealtd\\intermediate\\build\\win64\\unrealgame\\shipping\\unrealtd\\definitions.unrealtd.h",
+            "c:\\users\\mathi\\onedrive\\documents\\github\\unrealtowerdefense\\unrealtd\\source\\unrealtd\\public\\myactorcomponent.h",
+            "c:\\users\\mathi\\onedrive\\documents\\github\\unrealtowerdefense\\unrealtd\\intermediate\\build\\win64\\unrealgame\\inc\\unrealtd\\uht\\myactorcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -6,7 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/mathi/OneDrive/Documents/GitHub/UnrealTowerDefense/UnrealTD/Content/TopDown/AI/Enemy_Charather.uasset",
-				"C:/Users/mathi/OneDrive/Documents/GitHub/UnrealTowerDefense/UnrealTD/Content/Levels/AI_Level.umap"
+				"C:/Users/mathi/OneDrive/Documents/GitHub/UnrealTowerDefense/UnrealTD/Content/Levels/AI_Level.umap",
+				"C:/Users/mathi/OneDrive/Documents/GitHub/UnrealTowerDefense/UnrealTD/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/mathi/OneDrive/Documents/GitHub/UnrealTowerDefense/UnrealTD/Content/Levels/AI_Level_BuiltData.uasset",
+				"C:/Users/mathi/OneDrive/Documents/GitHub/UnrealTowerDefense/UnrealTD/Content/MSPresets/M_MS_Default_Material/M_MS_Default_Material.uasset",
+				"C:/Users/mathi/OneDrive/Documents/GitHub/UnrealTowerDefense/UnrealTD/Content/Megascans/3D_Assets/Tarped_Crate_vh1hffc/MI_Tarped_Crate_vh1hffc_4K.uasset"
 			]
 		}
 	]
